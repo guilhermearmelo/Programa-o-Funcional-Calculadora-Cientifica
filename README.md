@@ -1,2 +1,4 @@
-# Programa-o-Funcional-Calculadora-Cientifica
-Calculadora científica utilizando Ocaml - Paradigma Funcional
+# Calculadora-Funcional
+Desenvolvido por:
+Luís Filipe Vieira
+Guilherme Augusto Melo
